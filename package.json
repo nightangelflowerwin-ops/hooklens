@@ -1,0 +1,10 @@
+{
+  "name": "hook-lens",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Explain Uniswap v4 hook address permissions without a wallet or RPC",
+  "type": "module",
+  "scripts": { "test": "node --test", "inspect": "node cli.js" },
+  "engines": { "node": ">=18" }
+}
+
